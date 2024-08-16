@@ -7,11 +7,6 @@ This repository contains a dataset of the most streamed Spotify songs of 2024. T
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Data Cleaning](#data-cleaning)
-- [Visualization](#visualization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -66,14 +61,3 @@ You can install the necessary libraries using pip:
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly dash
-
-## Usage
-
-To analyze the dataset and generate visualizations, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/Komala550/Spotify-Popularity.git
-   cd Spotify-Popularity
-
