@@ -66,3 +66,14 @@ You can install the necessary libraries using pip:
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly dash
+
+## Usage
+
+To analyze the dataset and generate visualizations, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Komala550/Spotify-Popularity.git
+   cd Spotify-Popularity
+
